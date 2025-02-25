@@ -146,6 +146,14 @@
           "version": "^8.19.0"
         }
       }
+    },
+    "20.5.0": {
+      "version": "20.5.0",
+      "packages": {
+        "eslint-config-prettier": {
+          "version": "^10.0.0"
+        }
+      }
     }
   }
 }
